@@ -1,2 +1,6 @@
 # SPSO_2P
-A model for Wi-Fi-based indoor localization via SPSO
+A model for Wi-Fi fingerprint-based indoor localization via SPSO
+
+The main code of the model and algorithm see the file "".
+
+Details are being updated.
